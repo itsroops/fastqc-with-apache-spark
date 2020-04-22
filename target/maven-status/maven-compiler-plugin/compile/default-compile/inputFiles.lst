@@ -1,0 +1,17 @@
+/home/avi/fastqc-with-apache-spark/src/main/java/de/uni_bonn/bit/lsi/groupfive/fastqc_spark/FileLoaderSparkv3.java
+/home/avi/fastqc-with-apache-spark/src/main/java/de/uni_bonn/bit/lsi/groupfive/fastqc_spark/FileLoaderFastq.java
+/home/avi/fastqc-with-apache-spark/src/main/java/de/uni_bonn/bit/lsi/groupfive/fastqc_spark/SeqChunk.java
+/home/avi/fastqc-with-apache-spark/src/main/java/de/uni_bonn/bit/lsi/groupfive/fastqc_spark/perBaseSequenceQuality.java
+/home/avi/fastqc-with-apache-spark/src/main/java/de/uni_bonn/bit/lsi/groupfive/fastqc_spark/perSequenceGCContent.java
+/home/avi/fastqc-with-apache-spark/src/main/java/de/uni_bonn/bit/lsi/groupfive/fastqc_spark/DisplaySpark.java
+/home/avi/fastqc-with-apache-spark/src/main/java/de/uni_bonn/bit/lsi/groupfive/fastqc_spark/FileLoaderFastqCompressed.java
+/home/avi/fastqc-with-apache-spark/src/main/java/de/uni_bonn/bit/lsi/groupfive/fastqc_spark/BasicStats.java
+/home/avi/fastqc-with-apache-spark/src/main/java/de/uni_bonn/bit/lsi/groupfive/fastqc_spark/FileLoaderSam.java
+/home/avi/fastqc-with-apache-spark/src/main/java/de/uni_bonn/bit/lsi/groupfive/fastqc_spark/FileLoader.java
+/home/avi/fastqc-with-apache-spark/src/main/java/de/uni_bonn/bit/lsi/groupfive/fastqc_spark/App.java
+/home/avi/fastqc-with-apache-spark/src/main/java/de/uni_bonn/bit/lsi/groupfive/fastqc_spark/DuplicationLevel.java
+/home/avi/fastqc-with-apache-spark/src/main/java/de/uni_bonn/bit/lsi/groupfive/fastqc_spark/perBaseContent.java
+/home/avi/fastqc-with-apache-spark/src/main/java/de/uni_bonn/bit/lsi/groupfive/fastqc_spark/FileLoaderSparkv2.java
+/home/avi/fastqc-with-apache-spark/src/main/java/de/uni_bonn/bit/lsi/groupfive/fastqc_spark/FileLoaderSamCompressed.java
+/home/avi/fastqc-with-apache-spark/src/main/java/de/uni_bonn/bit/lsi/groupfive/fastqc_spark/perSequenceQualityScore.java
+/home/avi/fastqc-with-apache-spark/src/main/java/de/uni_bonn/bit/lsi/groupfive/fastqc_spark/OverrepresentedSequences.java
