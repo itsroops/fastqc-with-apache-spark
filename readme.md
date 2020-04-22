@@ -33,7 +33,7 @@ It can be executed as follows:
 **java -jar /target/fastqc_spark-0.0.1-SNAPSHOT-jar-with-dependencies.jar *INPUT_FILE* *OUTPUT_FILE***
 
 
-## Unused Source Codes:
+### Unused Source Codes:
 
 1. SeqChunk.java : This file is no longer used as the approach for development has changed during the course of this project. However, it is kept as a normal pojo class for future developments.
 
