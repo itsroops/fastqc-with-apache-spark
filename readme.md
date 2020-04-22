@@ -1,4 +1,4 @@
-### Implementing Fastqc using Spark
+### Implementing Fastqc functionalities using Apache Spark
 
 ## About:
 
