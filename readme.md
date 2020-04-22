@@ -32,6 +32,9 @@ It can be executed as follows:
 
 **java -jar /target/fastqc_spark-0.0.1-SNAPSHOT-jar-with-dependencies.jar *INPUT_FILE* *OUTPUT_FILE***
 
+Please make sure that a stable version of Java 8 is installed in your system
+
+
 
 ### Unused Source Codes:
 
