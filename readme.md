@@ -6,7 +6,7 @@ FastQC is an application which takes a FastQ file and runs a series
 of tests on it to generate a report.  Apache-Spark is an useful way to scale up the processing time of big sequence files in a short period of time.
 
 We have implemented the following functionalities (By referring to the original FastQC textfile output) using the map-reduce approach of Apache Spark in local standalone mode.
-`ToDo : Deployment in HPC Clusters `
+
 
 **1. Basic Statistics** - This module gives the number of sequences in the file and the length of a sequence.
 
@@ -31,7 +31,7 @@ namely, the input file and the output filepath to store the results.
 
 It can be executed as follows:
 
-**java -jar /target/fastqc_spark-0.0.1-SNAPSHOT-jar-with-dependencies.jar *INPUT_FILE* *OUTPUT_FILE***
+`java -jar /target/fastqc_spark-0.0.1-SNAPSHOT-jar-with-dependencies.jar *INPUT_FILE* *OUTPUT_FILE`
 
 Please make sure that a stable version of Java 8 is installed in your system. Even though the program uses Apache Spark for computation, explicit installation of the same is not required as the JAR file above takes care of all the dependencies and download them for the execution of the program.
 
