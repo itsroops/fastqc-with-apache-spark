@@ -12,8 +12,6 @@ import java.util.List;
 import org.apache.spark.api.java.JavaPairRDD;
 import org.apache.spark.api.java.JavaRDD;
 
-import com.sun.tools.javac.util.Pair;
-
 import scala.Tuple2;
 
 import org.apache.commons.compress.compressors.CompressorException;
