@@ -45,3 +45,7 @@ Please make sure that a stable version of Java 8 is installed in your system. Ev
 
 3. FileLoaderv3.java : This file loads into spark an RDD of objects when SeqChunk was initially used. However, with the implementation of other techiques, this is no longer used. However it might be useful for future developments. 
 
+## References:
+
+## Contact:
+For any queries / issues, you can mail at avirupgn@gmail.com
