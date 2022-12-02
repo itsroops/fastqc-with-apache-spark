@@ -35,7 +35,7 @@
 				
     			<groupId>com.github.samtools</groupId>
     			<artifactId>htsjdk</artifactId>
-    			<version>1.138</version>
+    			<version>3.0.1</version>
 				</dependency>
                 
                 
