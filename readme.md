@@ -48,4 +48,4 @@ Please make sure that a stable version of Java 8 is installed in your system. Ev
 ## References:
 
 ## Contact:
-For any queries / issues, you can mail at avirupgn@gmail.com
+For any queries / issues, you can mail at its.roops@gmail.com
